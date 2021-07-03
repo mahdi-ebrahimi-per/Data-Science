@@ -1,4 +1,5 @@
 these are PowerPoint file (.pptx)
-> Open on github web and click on "View raw",
+> Open slide page on 
+> github web and click on "View raw"
 > then save it on you local 
 > open with Microsoft PowerPoint(windows) or LibreOffice Impress(Linux)
