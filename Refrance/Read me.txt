@@ -1,0 +1,21 @@
+______eng:
+these are PowerPoint file (.pptx)
+> Open slide page on github web
+> click on "View raw" or "Download"
+> then save it on you local 
+> open with Microsoft PowerPoint(Windows&Mac) or LibreOffice Impress(Linux)
+
+These Slides Are Introduction and theory of data sciences
+Out of  "Refrences" directory, and in Data-Science Repositorie 
+we deal with Step-By-Step practical projects
+
+______per:
+این فایل ها، پاورپونت هستند (.pptx)
+> صفحه ی مربوط به یک اسلاید رو در وب گیت هاب باز کنید
+>  کلیک کنید"Download"  یا "View raw"روی دکمه ی 
+> فایل رو در  سیستم خود ذخیره کنید
+> برای لینوکس اجرا کنید LibreOffice Impress برای ویندوز و مک و با برنامه Microsoft PowerPoint با برنامه  
+
+این اسلاید ها، مباحث معرفی و تئوری علوم داده است
+ Data-Science و داخل ریپازیتوری Refrences خارج از دایرکتوری 
+به پروژه ی عملی، قدم به قدم میپردازیم
