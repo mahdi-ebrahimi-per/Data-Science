@@ -3,11 +3,11 @@ these are PowerPoint file (.pptx)
 > Open slide page on github web
 > click on "View raw" or "Download"
 > then save it on you local 
-> open with Microsoft PowerPoint(Windows&Mac) or LibreOffice Impress(Linux)
+> open with Microsoft PowerPoint(Windows and Mac) or LibreOffice Impress(Linux)
 
 These Slides Are Introduction and theory of data sciences
 Out of  "Refrences" directory, and in Data-Science Repositorie 
-we deal with Step-By-Step practical projects
+we discuss the hole practical projects Step-By-Step.
 
 ______per:
 این فایل ها، پاورپونت هستند (.pptx)
