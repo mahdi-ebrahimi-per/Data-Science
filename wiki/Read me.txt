@@ -3,3 +3,6 @@ these are PowerPoint file (.pptx)
 > github web and click on "View raw" or "Download"
 > then save it on you local 
 > open with Microsoft PowerPoint(Windows&Mac) or LibreOffice Impress(Linux)
+
+These Slides Are Introduction and theory of data sciences
+Out of  "wiki" directory, we deal with practical projects
