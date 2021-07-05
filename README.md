@@ -1,9 +1,9 @@
-# Data-Science
-Get start into classified data science and wiki
+# Data Science
+let get started with classified information about Data Science and it practical project 
 
 <pre>
-- in "wiki" repository, Introduction and theory of Data Sciences with Slides
+- inside the "Refrence" directory, we consider introduction and theory Slides about Data Science 
 
-- out of wiki we we deal with Step-By-Step practical projects
+- then we discuss the whole practical project Step-By-Step
 </pre>
 
