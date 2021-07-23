@@ -29,7 +29,5 @@ print(type(self.df))
 [out: <class 'pandas.core.frame.DataFrame'>]
 </div>
  
-mahdi
-  
 </div
 
